@@ -3,7 +3,7 @@ function fahhh_handler
     disown 2>/dev/null
 end
 
-function {name}_postexec --on-event fish_postexec
+function fahhh_postexec --on-event fish_postexec
     if test $status -ne 0
         fahhh_handler
     end
