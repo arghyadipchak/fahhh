@@ -8,11 +8,25 @@ No logs. No analysis. Just shame.
 
 ## 🚀 Installation
 
-### Step 1. Install the binary
+### Step 1. Install fahhh
+
+<details>
+<summary>Arch</summary>
+
+```sh
+yay -S fahhh-git
+```
+
+</details>
+
+<details>
+<summary>Other Linux</summary>
 
 ```sh
 cargo install --locked --git https://github.com/arghyadipchak/fahhh.git
 ```
+
+</details>
 
 ### Step 2. Set up your shell to use fahhh
 
